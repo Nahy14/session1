@@ -1,0 +1,15 @@
+{
+  "name": "react-sessions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react-router-dom": "^6.24.1",
+    "react-scripts": "^5.0.1"
+  }
+}
